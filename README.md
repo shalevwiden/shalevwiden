@@ -1,3 +1,3 @@
 **Hello**
 
-Aspiring Data Engineer, Software Developer, and Entreprenuer.
+Aspiring Software Developer, Data Engineer, and Entreprenuer.
