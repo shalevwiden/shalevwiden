@@ -1,8 +1,6 @@
-**Hello**
+**A little background on me**
 
-I like building stuff with Python.
-
-I wanna build websites.
+I love to learn things that allow me to create things
 
 I also like piano and chess.
 
